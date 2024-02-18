@@ -6,3 +6,5 @@ The Business Use Cases (BUCs) are implemented in Sparx Enterprise Architect (EA)
 The BUCs are modeled using the use case methodology proposed by IEC 62559-2:2015 to model and analyze the use cases associated with the utilization of EV flexibility. This systematic approach helps in understanding the interactions and functionalities involved in each scenario.
 
 Use cases serve as the foundational elements for software engineering projects, outlining the system’s developed functionalities from both static and dynamic perspectives. The static aspect is presented by identifying the actors involved in the system, while the dynamic aspect illustrates the interactions between actors and the system through use cases.
+
+This document is the results of the research project funded by European Union's ́Horizon Europe R&I programme under grant agreement no. 101056765. Views and opinions expressed in this document are however those of the authors only and do not necessarily reflect those of the European Union or the European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the grating authority can be held responsible for them.
